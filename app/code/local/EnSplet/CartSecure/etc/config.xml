@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <EnSplet_CartSecure />
+    </modules>
+    <frontend>
+        <secure_url>
+            <checkout_cart>/onepage</checkout_cart>
+            <checkout>/onepage</checkout>
+        </secure_url>
+    </frontend>
+</config>
